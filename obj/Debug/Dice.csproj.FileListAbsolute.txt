@@ -1,0 +1,18 @@
+c:\users\javelinco.ols\documents\visual studio 2012\Projects\Dice\bin\Debug\Dice.exe.config
+c:\users\javelinco.ols\documents\visual studio 2012\Projects\Dice\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+c:\users\javelinco.ols\documents\visual studio 2012\Projects\Dice\bin\Debug\Dice.exe
+c:\users\javelinco.ols\documents\visual studio 2012\Projects\Dice\bin\Debug\Dice.pdb
+c:\users\javelinco.ols\documents\visual studio 2012\Projects\Dice\obj\Debug\Dice.exe
+c:\users\javelinco.ols\documents\visual studio 2012\Projects\Dice\obj\Debug\Dice.pdb
+C:\Users\javelinco.OLS\Documents\Visual Studio 2012\Projects\DiceRoll\bin\Debug\Dice.exe.config
+C:\Users\javelinco.OLS\Documents\Visual Studio 2012\Projects\DiceRoll\obj\Debug\Dice.exe
+C:\Users\javelinco.OLS\Documents\Visual Studio 2012\Projects\DiceRoll\obj\Debug\Dice.pdb
+C:\Users\javelinco.OLS\Documents\Visual Studio 2012\Projects\DiceRoll\bin\Debug\Dice.exe
+C:\Users\javelinco.OLS\Documents\Visual Studio 2012\Projects\DiceRoll\bin\Debug\Dice.pdb
+C:\Users\javelinco.OLS\Documents\Visual Studio 2012\Projects\DiceRoll\obj\Debug\Dice.csprojResolveAssemblyReference.cache
+C:\Users\Dad\Desktop\UofPx\POS409\DiceRoll-master\DiceRoll-master\bin\Debug\Dice.exe.config
+C:\Users\Dad\Desktop\UofPx\POS409\DiceRoll-master\DiceRoll-master\obj\Debug\Dice.exe
+C:\Users\Dad\Desktop\UofPx\POS409\DiceRoll-master\DiceRoll-master\obj\Debug\Dice.pdb
+C:\Users\Dad\Desktop\UofPx\POS409\DiceRoll-master\DiceRoll-master\bin\Debug\Dice.exe
+C:\Users\Dad\Desktop\UofPx\POS409\DiceRoll-master\DiceRoll-master\bin\Debug\Dice.pdb
+C:\Users\Dad\Desktop\UofPx\POS409\DiceRoll-master\DiceRoll-master\obj\Debug\Dice.csprojResolveAssemblyReference.cache
